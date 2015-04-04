@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace WindowsFormsApplication1
 {
     /// <summary>
-    /// My Comments here
+    /// My Comments here, and more comments
     /// </summary>
     class Class1
     {
